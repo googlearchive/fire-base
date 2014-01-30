@@ -1,0 +1,17 @@
+{
+  "name": "fire-base",
+  "version": "0.0.0",
+  "authors": [
+    "Scott J. Miles <sjmiles@google.com>"
+  ],
+  "description": "Element interface to FireBase Web API",
+  "keywords": [
+    "Polymer",
+    "FireBase"
+  ],
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer",
+    "firebase": "~1.0.2"
+  }
+}
