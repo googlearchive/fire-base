@@ -4,7 +4,7 @@
   "authors": [
     "Scott J. Miles <sjmiles@google.com>"
   ],
-  "description": "Element interface to FireBase Web API",
+  "description": "Element wrapper for the FireBase Web API",
   "keywords": [
     "Polymer",
     "FireBase"
